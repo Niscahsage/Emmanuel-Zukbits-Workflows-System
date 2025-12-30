@@ -49,7 +49,7 @@ workflows/
 ├── docs/         # Internal documentation (SRS, SDS, architecture, etc.)
 ├── composer.json # PHP dependency configuration (to be defined)
 └── README.md     # This file
-
+```
 - **app/core**: Application kernel, routing, base controller, base model, database, and helper classes.  
 - **app/controllers**: Controllers for each module (auth, dashboards, projects, documentation, schedules, reports, approvals, notifications, settings).  
 - **app/models**: Models representing database entities.  
